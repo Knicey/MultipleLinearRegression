@@ -1,4 +1,4 @@
-This is a repository to demonstrate Multiple Linear Regression (SLR) in R using matrices and compare the result with the output of the the "lm" function. 
+This is a repository to demonstrate Multiple Linear Regression (MLR) in R using matrices and compare the result with the output of the the "lm" function. 
 This script uses the variables Bill Length, Flipper Length, and Sex to determine Body Mass in the palmer penguins dataset 
 (palmerMLR.R)
 
